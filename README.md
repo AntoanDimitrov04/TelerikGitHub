@@ -7,3 +7,4 @@ Random text:
 Hello there my name is Name and i love coding stuff you know. I love pizza spageti and i dont know how to spell spageti.I know a programming laguage called C++ and also one called C#! 
 * They are married!!! 
 ![alt text](http://leadership.sog.unc.edu/wp-content/uploads/sites/4/2015/09/celebrating.gif "Yay!")
+[![IMAGE ALT TEXT HERE](http://www.fndvisions.org/img/cutecat.jpg)](http://www.youtube.com/watch?v=WlRxNSRA7Rg&ab "Cute cats! Click me!")
